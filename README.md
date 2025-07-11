@@ -11,3 +11,21 @@
 ### 4.排行榜功能：用户可以查看已完成番茄钟次数的排行榜，排行榜按完成次数从高到低排序。服务器负责记录和更新每个用户的完成次数，确保排行榜数据的准确性和实时性。
 
 ### *系统功能简单易上手，还需升级完善。
+
+
+<img width="205" height="43" alt="image" src="https://github.com/user-attachments/assets/f643bcbf-7e66-4daa-ae40-4124f2fe6a52" /><br>
+
+
+<img width="179" height="79" alt="image" src="https://github.com/user-attachments/assets/4bb03705-1067-46f9-80d1-9eae520b4f1b" /><br>
+
+
+<img width="186" height="160" alt="image" src="https://github.com/user-attachments/assets/69fd844b-7966-408e-9298-ce916782836b" /><br>
+
+
+
+
+
+
+
+
+
