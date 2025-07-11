@@ -1,0 +1,5 @@
+qq 13
+dobby 11
+xx 7
+queen 1
+
